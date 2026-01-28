@@ -2,7 +2,7 @@
 let numeros = [];
 let a = 10, b = 5, c = 8, d = 20, e = 15;
 numeros.push(a, b, c, d, e);
-//numeros.sort((x, y ) => y - x); // Ordena em ordem decrescente
+// numeros.sort((x, y ) => y - x); // Ordena em ordem decrescente
 // console.log(numeros);
 
 // Outra forma sem usar sort
